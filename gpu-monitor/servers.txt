@@ -1,0 +1,10 @@
+GPUServer01
+GPUServer02
+GPUServer03
+GPUServer04
+GPUServer05
+GPUServer06
+GPUServer-cluster-01
+GPUServer-cluster-02
+DGX-Station-01
+
