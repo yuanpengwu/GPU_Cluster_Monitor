@@ -1,0 +1,44 @@
+Server GPUServer01:
+	GPU 1, GeForce GTX TITAN X
+	GPU 2, Tesla P40
+	GPU 3, Tesla P100-PCIE-16GB
+	GPU 4, GeForce GTX TITAN X
+Server GPUServer02:
+	GPU 0, Graphics Device
+	GPU 1, Graphics Device
+	GPU 2, Graphics Device
+	GPU 3, Graphics Device
+Could not reach GPUServer03 or error running nvidia-smi
+Server GPUServer04:
+	GPU 0, GeForce GTX 1080 Ti
+	GPU 1, GeForce GTX 1080 Ti
+	GPU 2, GeForce GTX 1080 Ti
+Server GPUServer05:
+	GPU 0, GeForce GTX 1080 Ti
+	GPU 1, GeForce GTX 1080 Ti
+	GPU 2, GeForce GTX 1080 Ti
+	GPU 3, GeForce GTX 1080 Ti
+Server GPUServer06:
+	GPU 0, GeForce GTX 1080
+	GPU 1, GeForce GTX 1080
+	GPU 2, GeForce GTX 1080
+Server GPUServer-cluster-01:
+	GPU 0, GeForce GTX 1080 Ti
+	GPU 1, GeForce GTX 1080 Ti
+	GPU 6, GeForce GTX 1080 Ti
+	GPU 7, GeForce GTX 1080 Ti
+Server GPUServer-cluster-02:
+	GPU 0, GeForce GTX 1080 Ti
+	GPU 1, GeForce GTX 1080 Ti
+	GPU 2, GeForce GTX 1080 Ti
+	GPU 3, GeForce GTX 1080 Ti
+	GPU 4, GeForce GTX 1080 Ti
+	GPU 5, GeForce GTX 1080 Ti
+	GPU 6, GeForce GTX 1080 Ti
+	GPU 7, GeForce GTX 1080 Ti
+Server DGX-Station-01:
+	GPU 0, Tesla V100-DGXS-16GB
+	GPU 1, Tesla V100-DGXS-16GB
+	GPU 2, Tesla V100-DGXS-16GB
+	GPU 3, Tesla V100-DGXS-16GB
+

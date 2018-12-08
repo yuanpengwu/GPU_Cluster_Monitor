@@ -1,0 +1,52 @@
+Server GPUServer01:
+	GPU 0 (GeForce GTX TITAN X): (51 MiB) - 32 C - Used by root (root)
+	GPU 1 (GeForce GTX TITAN X): (2 MiB) - 33 C - Free
+	GPU 2 (Tesla P40): (0 MiB) - 29 C - Free
+	GPU 3 (Tesla P100-PCIE-16GB): (0 MiB) - 36 C - Free
+	GPU 4 (GeForce GTX TITAN X): (2 MiB) - 33 C - Free
+Server GPUServer02:
+	GPU 0 (Graphics Device): (0 MiB) - 49 C - Free
+	GPU 1 (Graphics Device): (0 MiB) - 47 C - Free
+	GPU 2 (Graphics Device): (0 MiB) - 45 C - Free
+	GPU 3 (Graphics Device): (0 MiB) - 36 C - Free
+Server GPUServer03:
+	GPU 0 (GeForce GTX 1080 Ti): (0 MiB) - 58 C - Free
+	GPU 1 (GeForce GTX 1080 Ti): (7658 MiB) - 48 C - Used by pliu (Patrick Liu,,,)
+	GPU 2 (GeForce GTX 1080 Ti): (0 MiB) - 47 C - Free
+Server GPUServer04:
+	GPU 0 (GeForce GTX 1080 Ti): (10 MiB) - 54 C - Free
+	GPU 1 (GeForce GTX 1080 Ti): (10 MiB) - 55 C - Free
+	GPU 2 (GeForce GTX 1080 Ti): (10 MiB) - 49 C - Free
+Server GPUServer05:
+	GPU 0 (GeForce GTX 1080 Ti): (0 MiB) - 61 C - Free
+	GPU 1 (GeForce GTX 1080 Ti): (0 MiB) - 61 C - Free
+	GPU 2 (GeForce GTX 1080 Ti): (0 MiB) - 60 C - Free
+	GPU 3 (GeForce GTX 1080 Ti): (0 MiB) - 53 C - Free
+Server GPUServer06:
+	GPU 0 (GeForce GTX 1080): (0 MiB) - 32 C - Free
+	GPU 1 (GeForce GTX 1080): (0 MiB) - 44 C - Free
+	GPU 2 (GeForce GTX 1080): (0 MiB) - 45 C - Free
+Server GPUServer-cluster-01:
+	GPU 0 (GeForce GTX 1080 Ti): (0 MiB) - 42 C - Free
+	GPU 1 (GeForce GTX 1080 Ti): (0 MiB) - 42 C - Free
+	GPU 2 (GeForce GTX 1080 Ti): (10785 MiB) - 44 C - Used by weiwei (Weiwei Li,,,)
+	GPU 3 (GeForce GTX 1080 Ti): (10785 MiB) - 54 C - Used by weiwei (Weiwei Li,,,)
+	GPU 4 (GeForce GTX 1080 Ti): (10785 MiB) - 51 C - Used by weiwei (Weiwei Li,,,)
+	GPU 5 (GeForce GTX 1080 Ti): (10785 MiB) - 53 C - Used by weiwei (Weiwei Li,,,)
+	GPU 6 (GeForce GTX 1080 Ti): (0 MiB) - 37 C - Free
+	GPU 7 (GeForce GTX 1080 Ti): (0 MiB) - 37 C - Free
+Server GPUServer-cluster-02:
+	GPU 0 (GeForce GTX 1080 Ti): (0 MiB) - 39 C - Free
+	GPU 1 (GeForce GTX 1080 Ti): (0 MiB) - 40 C - Free
+	GPU 2 (GeForce GTX 1080 Ti): (0 MiB) - 31 C - Free
+	GPU 3 (GeForce GTX 1080 Ti): (0 MiB) - 39 C - Free
+	GPU 4 (GeForce GTX 1080 Ti): (0 MiB) - 35 C - Free
+	GPU 5 (GeForce GTX 1080 Ti): (0 MiB) - 37 C - Free
+	GPU 6 (GeForce GTX 1080 Ti): (0 MiB) - 39 C - Free
+	GPU 7 (GeForce GTX 1080 Ti): (0 MiB) - 39 C - Free
+Server DGX-Station-01:
+	GPU 0 (Tesla V100-DGXS-16GB): (0 MiB) - 35 C - Free
+	GPU 1 (Tesla V100-DGXS-16GB): (0 MiB) - 35 C - Free
+	GPU 2 (Tesla V100-DGXS-16GB): (0 MiB) - 35 C - Free
+	GPU 3 (Tesla V100-DGXS-16GB): (0 MiB) - 36 C - Free
+
